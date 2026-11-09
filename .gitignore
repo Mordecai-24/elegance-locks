@@ -1,0 +1,13 @@
+# Real credentials must never be committed
+config/mail.php
+config/local.php
+
+# Composer dependencies (restore with composer install)
+/vendor/
+
+# Logs and editor files
+storage/*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

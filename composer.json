@@ -1,0 +1,9 @@
+{
+    "name": "mordecai/elegance-locks",
+    "description": "Elegance Locks salon management system (core PHP, MySQL, PHPMailer, Tailwind CDN)",
+    "type": "project",
+    "require": {
+        "php": ">=8.0",
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
